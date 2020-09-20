@@ -18,8 +18,7 @@ sections:
 - type: intro
   template: intro
   title: React Impact Canada
-  subtitle: 'We are offering cloud modern solutions for voice assistants, mobile applications
-    and blazing fast websites. '
+  subtitle: 'We are offering E-commerce solutions and consultancy including sourcing and product research.'
   section_id: intro
   background_style: style2
   actions:
@@ -30,17 +29,15 @@ sections:
   component: Intro
 - type: spotlights
   template: spotlights
-  title: 'Voice assistant '
+  title: 'ecommerce '
   section_id: one
   background_style: style4
   component: Spotlights
 - type: features
   template: features
-  title: Voice assistant compaign
-  subtitle: |-
-    <!-- Wishpond embed code -->
-
-    <script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1503531&writeKey=6d4d2766e318" async></script><div class="wishpond-campaign" data-wishpond-id="2511669" data-wishpond-href="[https://embedded.wishpondpages.com/lp/2511669/](https://embedded.wishpondpages.com/lp/2511669/ "https://embedded.wishpondpages.com/lp/2511669/")"></div>
+  title: ecommerce
+  subtitle: ecommerce
+    
   section_id: two
   background_style: style3
   features_list:
@@ -85,12 +82,11 @@ sections:
   contact_list:
   - title: Address
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
-      USA
+      Toronto, Ontario
+      Canada
     url: ''
   - title: Email
-    text: user@Hyperspace.tld
+    text: info@reactimpact.ca
     url: "#"
   - title: Phone
     text: "(000) 000-0000"

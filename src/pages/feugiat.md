@@ -1,11 +1,10 @@
 ---
-title: Modern web applications
+title: E-commerce
 content_img_path: "/images/day94-ui-ux-4b353d2aa0cef62ed72279cc5ee0ecee.png"
 home_spotlights:
   enabled: true
   weight: 2
-  excerpt: The new era of websites is here. The time finally has come to change the
-    way websites are built.
+  excerpt: E-commerce solutions and consultancy. 
   home_img:
     path: "/images/pic04-1.jpg"
     data_position: top center
@@ -13,6 +12,4 @@ home_spotlights:
 template: page
 
 ---
-The new era of websites is here. The time finally has come to change the way websites are built.
-
-JAMstack web applications are the modern way of building blazing fast web applications leveraging all that cutting-edge cloud technologies coupling with the advancement of programming languages has to offer.
+E-commerce solutions and consultancy.
