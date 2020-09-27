@@ -1,11 +1,10 @@
 ---
-title: 'Mobile applications '
+title: 'wholesale and dropshipping'
 content_img_path: "/images/undraw_progressive_app_m9ms.png"
 home_spotlights:
   enabled: true
   weight: 1
-  excerpt: Mobile applications can be used to elevate the customer experience for
-    returning customers of small businesses.
+  excerpt: E-commerce solutions.
   home_img:
     path: "/images/undraw_drag_5i9w.png"
     data_position: center center
@@ -13,4 +12,4 @@ home_spotlights:
 template: page
 
 ---
-Mobile applications can be used to elevate the customer experience for returning customers of small businesses.
+E-commerce solutions
